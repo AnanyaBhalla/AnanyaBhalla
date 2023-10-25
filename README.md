@@ -1,6 +1,6 @@
 ### Hi there!
 
-I’m currently interested in applications of ML for image analysis, particularly deep learning. Feel free to get in touch whether you're working in medical research, healthcare or ML engineering. 
+I’m a PhD student interested in applications of deep learning for healthcare/cancer research. Feel free to reach out whether you're working in medical research, healthcare or ML engineering. 
 
 LinkedIn: https://www.linkedin.com/in/ananyabhalla/
 
